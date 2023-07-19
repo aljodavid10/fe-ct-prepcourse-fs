@@ -46,7 +46,7 @@ function capToFront(string) {
       else
          may = may + string[i]
    }
-   return may + min
+   return may + min 
 }
 
 function asAmirror(frase) {
